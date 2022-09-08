@@ -38,3 +38,25 @@ In this table, I am going to tell about the places to visit and their locations 
 # 2 Pithy quotes
 > The greatest glory in living lies not in never falling, but in rising every time we fall.- *Eleanor Roosevelt* <br>
 > Fortune favors the bold. - *Virgil*
+
+---
+
+# Code Fencing
+
+>I used this tutorial to create a simple jquery slider. HTML (Wrapper with div's as the "slides", which can contain any content):
+<https://stackoverflow.com/questions/23314200/how-to-add-next-previous-option-to-a-slider>
+
+```
+<div id="slideshow">
+  <div>
+    <img src="//farm6.static.flickr.com/5224/5658667829_2bb7d42a9c_m.jpg">
+  </div>
+  <div>
+    <img src="//farm6.static.flickr.com/5230/5638093881_a791e4f819_m.jpg">
+  </div>
+  <div>
+    Pretty cool eh? This slide is proof the content can be anything.
+  </div>
+</div>
+```
+<https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/>
