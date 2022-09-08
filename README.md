@@ -21,3 +21,14 @@ The closest airport to the Prince of Wales Museum of Western India is Chhatrapat
 * Jahengir art gallery
 
 [My image](Uday.jpeg)
+
+***
+
+# Tables for cities
+In this table, I am going to tell about the places to visit and their locations and amount of time to spend over there.
+|Name of the city|Place to visit|Time to spend|
+|----------------|--------------|-------------|
+|Hyderabad       |Golkonda fort |2 hours      |
+|Delhi           |Red fort      |1 hour       |
+|Mumbai          |Gateway of IND|30 minutes   |
+|Mysore          |Mysore palace |3 hours      |
