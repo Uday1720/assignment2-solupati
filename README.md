@@ -15,3 +15,7 @@ The closest airport to the Prince of Wales Museum of Western India is Chhatrapat
     3. Use the left 2 lanes to turn left onto Bandra - Worli Sea Link
     4. Take the ramp on the right onto Airport Rd
     5. On the airport rd You can reach to Chhatrapati Shivaji Maharaj International Airport. 
+
+* Gateway of India Mumbai
+* Chhatrapati Shivaji Maharaj Terminus
+* Jahengir art gallery
