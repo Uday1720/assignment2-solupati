@@ -36,5 +36,5 @@ In this table, I am going to tell about the places to visit and their locations 
 ***
 
 # 2 Pithy quotes
-> The greatest glory in living lies not in never falling, but in rising every time we fall.- *Eleanor Roosevelt*
+> The greatest glory in living lies not in never falling, but in rising every time we fall.- *Eleanor Roosevelt* <br>
 > Fortune favors the bold. - *Virgil*
