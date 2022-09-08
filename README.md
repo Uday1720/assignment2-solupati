@@ -32,3 +32,9 @@ In this table, I am going to tell about the places to visit and their locations 
 |Delhi           |Red fort      |1 hour       |
 |Mumbai          |Gateway of IND|30 minutes   |
 |Mysore          |Mysore palace |3 hours      |
+
+***
+
+# 2 Pithy quotes
+> The greatest glory in living lies not in never falling, but in rising every time we fall.*Eleanor Roosevelt*
+> Fortune favors the bold.*Virgil*
